@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://cdn.pixabay.com/photo/2016/11/22/19/15/audience-1850119_960_720.jpg) bottom center;
+  background: url("concert.jpg") bottom center;
   background-size: cover;
 }
 body,html {
