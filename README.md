@@ -1,5 +1,5 @@
 Drumkit Sample
 
-Press the keys on the screen to simulate their respective sounds.
+Press the keys on the screen to simulate their respective sounds.<br/>
 
-I would like to eventually add a record feature.
+Check it out here: https://nikhilpatel87.github.io/drumkit/
